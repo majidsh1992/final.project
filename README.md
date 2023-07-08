@@ -1,2 +1,1 @@
-# final.project
-Mini projects of the training course
+# Game-of-human-007-
